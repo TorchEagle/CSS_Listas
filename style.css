@@ -1,0 +1,50 @@
+html {
+    background-color: rgb(204, 204, 204);
+    font-family: sans-serif;
+}
+
+h1 {
+    margin-bottom: 46px;
+}
+
+h2 {
+    margin-bottom: 16px;
+}
+
+ul {
+    list-style-type: none;
+}
+
+ul.lista1 li {
+    text-align: center;
+    font-weight: bold;
+    border: 5px dashed rgb(146, 101, 189);
+    background-color: rgb(104, 211, 127);
+    color: rgb(100, 0, 100);
+    float: left;
+    margin-right: 16px;
+    width: 120pt;
+    padding-top: 8px;
+    padding-bottom: 8px;
+}
+
+ul.lista2 {
+    text-align: center;
+}
+
+ul.lista2 li{
+    text-align: center;
+    display: inline;
+    background-color: white;
+    border: 2px outset black;
+    
+    margin-right: 13px;
+    padding: 5px;
+}
+
+section{
+clear: both;
+margin-bottom: 40px;
+
+}
+
